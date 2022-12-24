@@ -1,4 +1,0 @@
-pandas=1.5.2=py310h1128e8f_0
-re2=2022.04.01=h295c915_0
-streamlit=1.16.0=pyhd8ed1ab_0
-plotly=5.11.0=py_0
